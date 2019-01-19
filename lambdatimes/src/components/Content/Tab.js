@@ -16,7 +16,7 @@ const Tab = props => {
     
 
 
-      {/* {props.tab.toUpperCase()} */}
+      {props.tab.toUpperCase()}
     </div>
   );
 };
