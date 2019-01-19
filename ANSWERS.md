@@ -25,4 +25,4 @@ Please describe why it's important to type check our data in JavaScript.
 
  What are three different ways to style components in React? Explain some of the benefits of each.
 
-    -Vanilla CSS, Prepreprocessors & BootStrap.
+    -Vanilla CSS, Pre preprocessors & BootStrap.
